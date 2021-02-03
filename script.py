@@ -17,7 +17,7 @@ def createMeshFromData(name, origin, verts, edges, faces):
 
 # Parameters
 VerticesPerLoop = 256
-Loops = 5
+Loops = 2
 R = 32.5 # Outer radius
 r = 30 # Inner radius
 # thread profile (h1, h2, h3, h4 of the 4 points defining the profile)
